@@ -1,0 +1,5 @@
+# id|department|name|unit|quantityOnHand|reorderLevel|isActive
+1000|Offset Press|70# Gloss Text Paper - 28x40|sheets|5000|1500|1
+1001|Offset Press|Black Ink|lbs|120|40|1
+1002|Label|Label Stock - 4in Roll|rolls|80|25|1
+1003|Bindery|Shrink Wrap|rolls|18|10|1
